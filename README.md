@@ -15,6 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saniyeekinci&show_icons=true&locale=en" alt="saniyeekinci" /></p>
 
-![snake svg](https://raw.githubusercontent.com/saniyeekinci/saniyeekinci/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saniyeekinci/saniyeekinci/blob/output/github-snake-dark.svg)
 
 
