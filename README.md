@@ -1,7 +1,7 @@
 <div align="center" style="margin:0; padding:0; line-height:0;">
   <img src="banner_github.png" width="100%" style="display:block; margin:0; padding:0;" />
 
-  <img src="about.png" width="100%" style="display:block; margin:0; padding:0;" />
+  <img src="about.png" width="70%" style="display:block; margin:0; padding:0;" />
 
   <img src="https://komarev.com/ghpvc/?username=saniyeekinci&label=Profile%20Views&color=2C2C2C&labelColor=7A5C53&style=flat-square"
        alt="Profile Views"
@@ -12,11 +12,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/saniye-ekinci" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="300" /></a>
+  <a href="https://linkedin.com/in/saniye-ekinci" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="100" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/saniye_ekincii" target="_blank"><img src="instagram.png" alt="Instagram" width="300" /></a>
+  <a href="https://instagram.com/saniye_ekincii" target="_blank"><img src="instagram.png" alt="Instagram" width="100" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/saniyeeknc" target="_blank"><img src="behance.png" alt="Behance" width="300" /></a>
+  <a href="https://www.behance.net/saniyeeknc" target="_blank"><img src="behance.png" alt="Behance" width="100" /></a>
 </p>
 
 ## 💻 Tech Stack
