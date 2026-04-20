@@ -12,11 +12,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/saniye-ekinci" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="100" /></a>
+  <a href="https://linkedin.com/in/saniye-ekinci" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="150" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/saniye_ekincii" target="_blank"><img src="instagram.png" alt="Instagram" width="100" /></a>
+  <a href="https://instagram.com/saniye_ekincii" target="_blank"><img src="instagram.png" alt="Instagram" width="150" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/saniyeeknc" target="_blank"><img src="behance.png" alt="Behance" width="100" /></a>
+  <a href="https://www.behance.net/saniyeeknc" target="_blank"><img src="behance.png" alt="Behance" width="150" /></a>
 </p>
 
 ## 💻 Tech Stack
