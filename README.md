@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saniye EKİNCİ</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | Motion & Video Creator</h3>
+<h3 align="center">Frontend Developer | Aspiring Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saniyeekinci&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🎯 Modern web arayüzleri geliştiriyorum (React / Next.js)
-- 🎨 UI/UX ve görsel tasarım tarafına ilgim var
-- 🎬 Kendi sosyal medya kanallarım için video içerikler üretiyorum
-- 🌱 Sürekli olarak frontend ve creative alanlarda kendimi geliştiriyorum
-- 💡 Amacım: Teknik + yaratıcı tarafı birleştiren projeler üretmek
+- 💻 I work in frontend development (React / Next.js)
+- ⚙️ I'm on my way to becoming a full-stack developer
+- 🎯 I am focused on developing clean, scalable, and modern user interfaces
+- 📚 I am actively learning backend technologies
+- 🧠 My goal: To become a developer capable of building end-to-end products
 
 ---
 
@@ -40,15 +40,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### 🎬 Design & Creative
+### ⚙️ Backend (Learning Phase)
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 📱 Mobile & Other
+### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -72,6 +71,6 @@
 
 ## ✨ Philosophy
 
-> “Clean UI is not just design, it’s experience.”
+> “Build clean. Think scalable. Grow full stack.”
 
 ---
