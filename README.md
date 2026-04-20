@@ -13,7 +13,6 @@
   <img src="about.png" alt="Mission" width="48%" align="left" />
   
   <div align="center">
-    <h3 align="center">Tech Stack</h3>
     <img src="html.png" alt="HTML5" title="HTML5" width="120" /><img src="css.png" alt="CSS3" title="CSS3" width="120" /><img src="js.png" alt="JavaScript" title="JavaScript" width="120" /><br>
     <img src="react.png" alt="React" title="React" width="120" /><img src="next.png" alt="Next.js" title="Next.js" width="120" /><img src="tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="120" /><br>
     <img src="vsc.png" alt="VS Code" title="VS Code" width="120" /><img src="git.png" alt="Git" title="Git" width="120" /><img src="github.png" alt="GitHub" title="GitHub" width="120" /><br>
